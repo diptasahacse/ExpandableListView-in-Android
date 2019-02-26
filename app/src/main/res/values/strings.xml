@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">MyExpendableListView</string>
+
+    <string-array name="Headerlist">
+
+        <item>CPU</item>
+        <item>MAC</item>
+        <item>OS</item>
+        <item>PC</item>
+        <item>PDF</item>
+        <item>RAM</item>
+        <item>ROM</item>
+        <item>VGA</item>
+        <item>WYSIWYG</item>
+        <item>FTP</item>
+        <item>HTML</item>
+        <item>HTTP</item>
+        <item>IP</item>
+
+
+    </string-array>
+    <string-array name="Childlist">
+
+        <item>
+This stands for the Central Processing Unit of the computer. This is like the computers brain.
+        </item>
+        <item>
+This is an abbreviation for Macintosh, which is a type of personal computer made by the Apple Computer company.
+        </item>
+        <item>
+ This is the Operating System of the computer. It is the main program that runs on a computer and begins automatically when the computer is turned on.
+        </item>
+        <item>
+This is the abbreviation for personal computer. It refers to computers that are IBM compatible.
+        </item>
+        <item>
+This represents the Portable Document Format which displays files in a format that is ready for the web.
+        </item>
+        <item>
+This stands for Random Access Memory which is the space inside the computer that can be accessed at one time. If you increase the amount of RAM, then you will increase the computers speed. This is because more of a particular program is able to be loaded at one time.
+        </item>
+        <item>
+This is Read Only Memory which is the instruction for the computer and can not be altered.
+        </item>
+        <item>
+The Video Graphics Array is a system for displaying graphics. It was developed by IBM.
+        </item>
+        <item>
+ This initialism stands for What You See Is What You Get. It is pronounced \"wizziwig\" and basically means that the printer will print what you see on your monitor.
+        </item>
+        <item>
+This is a service called File Transport Protocol which moves a file between computers using the Internet.
+        </item>
+        <item>
+HyperText Markup Language formats information so it can be transported on the Internet.
+        </item>
+        <item>
+Hypertext Transfer Protocol is a set of instructions for the software that controls the movement of files on the Internet.
+        </item>
+        <item>
+This stands for Internet Protocol which is the set of rules that govern the systems connected to the Internet. IP Address is a digital code specific to each computer that is hooked up to the Internet.
+        </item>
+
+
+    </string-array>
+
+
+</resources>
